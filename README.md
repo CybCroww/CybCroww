@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cybb-Builder
+- 👀 I'm learning to create Android ROMS
+- 😄 Pronouns: he/him/his
+- ⚡ Fact: Don't put off until tomorrow what you can do today.
+- 🎧 If you want to contact me, write to me in Telegram - @CybCrow!

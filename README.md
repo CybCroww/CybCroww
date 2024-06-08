@@ -10,5 +10,3 @@
 <h2 align="center">Supported ROMS:</h2>
 <h3 align="center">
 • <a href="https://github.com/LineageOS" target="_blank">LineageOS</a>
-
-• <a href="https://github.com/RisingTechOSS" target="_blank">RisingOS</a></h3>

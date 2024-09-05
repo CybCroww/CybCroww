@@ -5,8 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybCroww&theme=nord)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CybCroww&theme=nord&repo=device_xiaomi_topaz)](https://github.com/CybCroww/device_xiaomi_topaz)
 </h4>
 <h2 align="center">Supported ROMS:</h2>
 <h3 align="center">
-• <a href="https://github.com/LineageOS" target="_blank">LineageOS</a>
+• <a href="https://github.com/yaap" target="_blank">YAAP</a>
